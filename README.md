@@ -1,2 +1,2 @@
-# CodeWithUbaid Solar-Website
+# CodeWithUbaid 
 This is my first Git repository.
